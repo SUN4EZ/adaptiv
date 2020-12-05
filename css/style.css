@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+}
+
+.why-now {
+	margin-top: 70px;
+	margin-bottom: 80px;
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.col {
+	text-align: center;
+}
+
+.col-text {
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: 700;
+}
